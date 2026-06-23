@@ -1,6 +1,6 @@
-# Deep Learning for Biology
+# Computational Biology
 
-This repo contains a set of DL algorithms applied in the context of Biology. These notebooks help to understand the implications of Deep Learning in Biology. Detailed analysis and visualizations are provided along with the code.
+This repo contains a set of algorithms in the field of Computational Biology. Along with standard algorithms, applications of ML and DL are also explored. Detailed analysis and visualizations are provided along with the code.
 
 > For a better experience with notebooks, it is recommended to view the repository at
-> https://nbviewer.org/github/nveshaan/deep_learning_biology/tree/main/
+> https://nbviewer.org/github/nveshaan/computational_biology/tree/main/
